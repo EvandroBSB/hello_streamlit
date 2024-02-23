@@ -1,0 +1,14 @@
+    1  python
+    2  python -m venv.myenv
+    3  python -m venv .myenv
+    4  source .myenv/bin/activate
+    5  pip install pandas -q
+    6  pip install streamlit -q
+    7  streamlit hello
+    8  streamlit run app.py
+    9  git add.
+   10  git add .
+   11  git commit -m "Primeiro comit - boas práticas"
+   12  git push
+   13  history
+(.myenv) @EvandroBSB ➜ /workspaces/hello_streamlit (main) $ 
